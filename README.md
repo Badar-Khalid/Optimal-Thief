@@ -18,7 +18,6 @@ pip install pygame
 
 3. Download the Game Files
 
-Download this repository
 Make sure the .py game file (e.g. optimal_thief.py) is on your computer
 
 4. Run the Game
