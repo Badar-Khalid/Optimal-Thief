@@ -72,3 +72,6 @@ FEATURES:
 • Confirm button
 • One full playable round
 • Result screen
+
+
+Try it out and have fun! Also let me know about any bugs.
