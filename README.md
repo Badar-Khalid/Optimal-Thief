@@ -36,6 +36,10 @@ optimal_thief.py
 
 
 
+
+
+
+
 CORE IDEA:
 
 The player has a limited-capacity bag and must choose the best combination of items to maximize total value without exceeding the weight limit.
