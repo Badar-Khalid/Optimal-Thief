@@ -1,5 +1,41 @@
 # Optimal-Thief
 
+How To Play:
+
+1. Install Python 3.12
+
+Download and install Python 3.12(not the latest version) from the official website:
+https://www.python.org/downloads/
+
+During installation, make sure to check:
+✔️ “Add Python to PATH”
+
+2. Install Pygame
+
+Open Command Prompt (Windows) or Terminal (Mac/Linux) and run:
+
+pip install pygame
+
+3. Download the Game Files
+
+Download or clone this repository
+Make sure the .py game file (e.g. optimal_thief.py) is on your computer
+
+4. Run the Game
+
+Navigate to the folder where the game file is located after downloading:
+
+cd path/to/your/game etc...
+
+Then run:
+
+optimal_thief.py
+
+
+
+
+
+
 CORE IDEA:
 
 The player has a limited-capacity bag and must choose the best combination of items to maximize total value without exceeding the weight limit.
